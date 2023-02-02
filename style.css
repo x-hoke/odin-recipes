@@ -1,11 +1,14 @@
 *{
     background-color: beige;
     font-family: 'Courier New', Courier, monospace;
+    
+    
 }
 h1{
     color: white;
     background-color: gray;
     text-align: center;
+    
 }
 img{
     width: 300px;
@@ -18,3 +21,6 @@ img{
 .descrition{
 text-align: center;
 }
+ .main-table{
+    list-style: none;
+ }
